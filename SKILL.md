@@ -372,3 +372,24 @@ hermes skills install 人生的智慧
 # 或
 加载 人生的智慧
 ```
+
+---
+
+## 版权与溯源
+
+本技能由 **[AntCaveClub](https://x.com/AntCaveClub)** 基于原书完整提炼，经 Hermes Agent 结构化整理为可调用的技能格式。
+
+**创作者社交矩阵：**
+- 🐦 **X (Twitter):** [@AntCaveClub](https://x.com/AntCaveClub)
+- 📺 **YouTube:** [@0xcii](https://youtube.com/@0xcii)
+- 💬 **Telegram:** [@hollyink](https://t.me/hollyink)
+- 🛒 **CodeX 折扣购买:** [gamsgo.com/partner/JwUY7](https://www.gamsgo.com/partner/JwUY7)
+
+> 本技能是创作者从276页原文逐章提炼、结构化的成果。若你在无署名、无出处的情况下复制、分发、转售本技能内容，即为**抄袭**。
+>
+> 叔本华在第四章说：「荣誉制度的基础不是看你做了什么，而是看别人认为你做了什么。」
+> 我们把它改一下：**你的水平不取决于你「拿到了什么」，而取决于你「会不会标明出处」。**
+>
+> —— 请尊重知识劳动。抄袭的人，叔本华不会祝福你。
+
+**License:** MIT — 自由使用、修改、分发，但**必须保留以上署名及社交链接**。
