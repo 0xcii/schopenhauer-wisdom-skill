@@ -96,12 +96,10 @@ schopenhauer-wisdom/
 
 | 平台 | 链接 |
 |:----|:----|
-| 🐦 X (Twitter) | [@0xcii](https://x.com/0xcii) |
-| 📺 YouTube | [0xcii](https://youtube.com/@0xcii) |
-| 💬 Telegram | [0xcii 频道](https://t.me/blockrun_ai) |
-| 🤖 Hermes Agent | [hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com) |
-| 📖 ClawHub | [clawhub.ai](https://clawhub.ai) |
-| 🛒 CodeX 折扣 | [gamsgo.com/partner/JwUY7](https://www.gamsgo.com/partner/JwUY7) |
+| 🐦 X (Twitter) | [@AntCaveClub](https://x.com/AntCaveClub) |
+| 📺 YouTube | [@0xcii](https://youtube.com/@0xcii) |
+| 💬 Telegram | [@hollyink](https://t.me/hollyink) |
+| 🛒 **CodeX 折扣** | **[gamsgo.com/partner/JwUY7](https://www.gamsgo.com/partner/JwUY7)**
 
 ## 许可证
 
