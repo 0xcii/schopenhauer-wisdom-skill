@@ -24,8 +24,11 @@
 ### 从 ClawHub 安装（推荐）
 
 ```bash
-hermes skills install 人生的智慧
+hermes skills install schopenhauer-wisdom
 ```
+
+> 注意：ClawHub 发布的 slug 是 `schopenhauer-wisdom`，不是中文名称。
+> 安装后可在会话中用 `/skill 人生的智慧` 或 `加载 人生的智慧` 加载。
 
 ### 手动安装
 
